@@ -1,0 +1,13 @@
+For this project lets practice practice practice!
+
+1) Use Bootstrap
+    -start with html layout 
+
+2) Use jQuery
+
+3) Dom traversal / manipulations
+
+4) Use this key word
+
+5) Use APIs - fetch/Ajax
+
